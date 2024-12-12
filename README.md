@@ -68,4 +68,4 @@ jephersonRD@github
 | Mis Estadísticas |
 |:-----------------:|
 | ![Actividad en GitHub](https://activity-graph.herokuapp.com/graph?username=jephersonRD&theme=react-dark&hide_border=true&area=true) |
-| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jephersonRD&show_icons=true&theme=radical) |
+| <img src="https://github-readme-stats.vercel.app/api?username=jephersonRD&show_icons=true&theme=radical" alt="Estadísticas de GitHub"> |
