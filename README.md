@@ -16,15 +16,15 @@ Hi, I'm jepherson!
 ```
 I-am-vishalmaurya@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+💻 Soy Jepherson, un Desarrollador autodidacta que usa GitHub y Termux para proyectos creativos.
+📚 Tengo un profundo interés en la optimización de sistemas y desarrollo de juegos.
+📝 Me apasiona crear scripts y personalizar servidores como Minecraft y GTA IV.
+🔭 Actualmente trabajo en proyectos de optimización y personalización de juegos.
+🌱 Estoy aprendiendo sobre mods, plugins y herramientas para gaming y servidores.
+🌟 Mis principales lenguajes son Python y scripts Bash.
+🚩 Me interesa el desarrollo de aplicaciones con integración de control y streaming.
+💖 En una relación constante con la optimización y la creatividad en mis proyectos.
+🎵 Amo la música metal, lofi, jazz y explorar nuevas formas de creatividad.
 ```
 <hr>
 
