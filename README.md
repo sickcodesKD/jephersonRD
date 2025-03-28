@@ -1,6 +1,6 @@
 <h1 align="center">
 ¡Hola, soy Jepherson!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <img src=""></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas%20al%20perfil&color=0e75b6&style=flat" align='right' alt="jephersonRD" />-->
  <img src="[https://gpvc.arturio.dev/jephersonRD" alt="Visitas al perfil" align='right'/> <a href="https://github.com/jephersonRD"> </a> 
 <br/>](https://images.app.goo.gl/emQEuee7CVUNgsvKA)
