@@ -3,7 +3,7 @@
   <img src=""></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas%20al%20perfil&color=0e75b6&style=flat" align='right' alt="jephersonRD" />-->
  <img src="[https://gpvc.arturio.dev/jephersonRD" alt="Visitas al perfil" align='right'/> <a href="https://github.com/jephersonRD"> </a> 
-<br/>](https://images.app.goo.gl/emQEuee7CVUNgsvKA)
+<br/>]()
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
