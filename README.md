@@ -5,7 +5,7 @@
 
  <!--<img src="https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas%20al%20perfil&color=0e75b6&style=flat" align='right' alt="jephersonRD" />-->
  <img src="https://gpvc.arturio.dev/jephersonRD" 
-<a href="https://github.com/jephersonRD"></a> 
+<a href="https://github.com/jephersonRD"> </a> alt="Visitas al perfil" align='right'/> 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
