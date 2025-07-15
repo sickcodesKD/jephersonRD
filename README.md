@@ -1,98 +1,86 @@
+<!-- Updated README with GIF moved down slightly -->
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://github.com/jephersonRD)
 <h1 align="center">
-¡Hola, soy Jepherson!
-  <img src="">
+  ¡Hola, soy Jepherson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
- <!--<img src="https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas%20al%20perfil&color=0e75b6&style=flat" align='right' alt="jephersonRD" />-->
- <img src="https://gpvc.arturio.dev/jephersonRD" alt="Visitas al perfil" align='right'/> 
-<a href="https://github.com/jephersonRD"></a> 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5F5F&size=28&center=true&vCenter=true&width=600&height=45&lines=Desarrollador+Autodidacta;Apasionado+por+la+Optimización;Amante+de+los+Videojuegos;Siempre+Aprendiendo+Nuevas+Cosas" alt="Typing Animation" />
+</div>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Autodidacta;Apasionado+por+la+Optimización;Amante+de+los+Videojuegos;Siempre+aprendiendo+nuevas+cosas&center=true&width=380&height=45">
-  </a>
-</p>
+<!-- Adjusted margin-top to move GIF down -->
+<img align="right" style="margin-top:20px;" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFjZnFyNGZwampnenk0c2xocnlsdmFscWVzdndrODdldXBvYXNkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Imagen representativa" width="320" />
-<hr>
+![GitHub followers](https://img.shields.io/github/followers/jephersonRD?style=social) ![GitHub Stars](https://img.shields.io/github/stars/jephersonRD?style=social)
+<img src="https://gpvc.arturio.dev/jephersonRD" alt="Visitas al perfil" align="right" />
 
-```
+---
+
+### 👨‍💻 Sobre Mí
+
+```txt
 jephersonRD@github
 -------------------------
 💻 Soy Jepherson, un desarrollador autodidacta que usa GitHub y Termux para proyectos creativos.
-📚 Tengo un profundo interés en la optimización de sistemas y el desarrollo de juegos.
-📝 Me apasiona crear scripts y personalizar servidores como Minecraft y GTA IV.
-🌠 Actualmente trabajo en proyectos de optimización y personalización de juegos.
-🌱 Estoy aprendiendo sobre mods, plugins y herramientas para gaming y servidores.
-✨ Mis principales lenguajes son Python y scripts Bash.
-💩 Me interesa el desarrollo de aplicaciones con integración de control y streaming.
-💖 En una relación constante con la optimización y la creatividad en mis proyectos.
-🎶 Amo la música metal, lofi, jazz y explorar nuevas formas de creatividad.
+📚 Interesado en la optimización de sistemas y desarrollo de juegos.
+🛠️ Creo scripts y personalizo servidores como Minecraft y GTA IV.
+🌱 Aprendiendo sobre mods, plugins y herramientas para servidores.
+💡 Me apasiona el control remoto, el streaming y automatizaciones.
+🎵 Me inspiro con música metal, lofi, jazz y más.
 ```
-<hr>
 
-## 🛠️ Mis Herramientas Favoritas
+---
 
-### 🔧 Lenguajes de Programación
+### 🛠️ Habilidades y Herramientas
 
-<p>
-    <a href="https://github.com/search?q=user%3AjephersonRD+is%3Arepo+language%3Ahtml">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AjephersonRD+is%3Arepo+language%3Acss">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AjephersonRD+is%3Arepo+language%3Apython">
-      <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AjephersonRD+is%3Arepo+language%3Abash">
-      <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%234EAA25.svg?logo=gnu-bash&logoColor=white">
-    </a>
-</p>
+#### Lenguajes de Programación
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
 
-### 🛪️ Frameworks y Librerías
+#### Frameworks y Librerías
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-<p>
-    <a href="#">
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    </a>
-    <a href="#">
-      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </a>
-    <a href="#">
-      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    </a>
-</p>
+#### Hosting y Bases de Datos
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-### 📊 Bases de Datos y Hosting en la Nube
+#### Herramientas de Desarrollo
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-<p>
-    <a href="#">
-      <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
-    </a>
-    <a href="#">
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    </a>
-</p>
+---
 
-### 💻 Software y Herramientas
+### 📊 Estadísticas de GitHub
 
-<p>
-    <a href="#">
-      <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-    </a>
-    <a href="#">
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    </a>
-    <a href="#">
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-    </a>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jephersonRD&theme=radical&show_icons=true&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jephersonRD&theme=radical&hide_border=false" />
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jephersonRD&theme=radical&layout=compact&hide_border=false" />
+</td>
+</tr>
+</table>
 
-## Estadísticas de GitHub
+---
 
-| Mis Estadísticas |
-|:-----------------:|
-| ![Actividad en GitHub](https://activity-graph.herokuapp.com/graph?username=jephersonRD&theme=react-dark&hide_border=true&area=true) |
-| <img src="https://github-readme-stats.vercel.app/api?username=jephersonRD&show_icons=true&theme=radical" alt="Estadísticas de GitHub"> |
+### 🦜 Aquí algunos loros de fiesta (¡porque sí!)
+<div align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" />
+</div>
+
+---
+
+### 😂 ¡Un chiste para alegrarte el día!
+![Jokes Card](https://readme-jokes.vercel.app/api)
