@@ -44,20 +44,19 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```typescript
-const jepherson = {
-  nombre: "Jepherson",
-  rol: "Desarrollador Full Stack",
+const jephersonProfile = {
+  nombre: "Jepherson Medina",
+  profesion: "Full Stack Developer",
   ubicacion: "República Dominicana",
-  aprendizaje: "Autodidacta",
-  
-  especialidades: [
-    "Optimización de sistemas",
-    "Desarrollo de videojuegos",
-    "Automatización",
-    "Streaming y control remoto"
-  
+  formacion: "Autodidacta apasionado",
+
+  habilidadesDestacadas: [
+    "Optimización avanzada de sistemas",
+    "Game Dev (Desarrollo de videojuegos)",
+    "Automatización inteligente de procesos",
+    "Streaming remoto y control multiplataforma"
   ]
-  
+};
 ```
 
 ---
@@ -108,10 +107,10 @@ const jepherson = {
 
 <div align="center">
   <a href="https://github.com/jephersonRD/PC-Free">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=proyecto1&theme=radical" alt="Proyecto 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Free&theme=radical" alt="PC-Free"/>
   </a>
-  <a href="https://github.com/jephersonRD/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=proyecto2&theme=radical" alt="https://github.com/jephersonRD/ModerLauncher"/>
+  <a href="https://github.com/jephersonRD/ModerLauncher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=ModerLauncher&theme=radical" alt="ModerLauncher"/>
   </a>
 </div>
 
