@@ -44,19 +44,20 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```typescript
-const jephersonProfile = {
+const jephersonProfile 
+  
   nombre: "Jepherson Medina",
   profesion: "Full Stack Developer",
   ubicacion: "República Dominicana",
   formacion: "Autodidacta apasionado",
 
-  habilidadesDestacadas: [
+  habilidadesDestacadas: 
     "Optimización avanzada de sistemas",
     "Game Dev (Desarrollo de videojuegos)",
     "Automatización inteligente de procesos",
     "Streaming remoto y control multiplataforma"
-  ]
-};
+  
+
 ```
 
 ---
