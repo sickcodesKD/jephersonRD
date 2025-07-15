@@ -57,8 +57,6 @@ const jephersonProfile
     "Game Dev (Desarrollo de videojuegos)",
     "Automatización inteligente de procesos",
     "Streaming remoto y control multiplataforma"
-  
-
 ```
 
 ---
