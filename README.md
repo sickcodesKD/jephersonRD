@@ -52,11 +52,14 @@ const jephersonProfile
   formacion: "Autodidacta apasionado",
 
 
+
   habilidadesDestacadas: 
     "Optimización avanzada de sistemas",
     "Game Dev (Desarrollo de videojuegos)",
     "Automatización inteligente de procesos",
     "Streaming remoto y control multiplataforma"
+
+
 ```
 
 ---
