@@ -54,7 +54,6 @@ const jephersonProfile
 
 
 
-
   habilidadesDestacadas: 
     "Optimización avanzada de sistemas",
     "Game Dev (Desarrollo de videojuegos)",
