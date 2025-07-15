@@ -9,7 +9,7 @@
 </div>
 
 <!-- Adjusted margin-top to move GIF down -->
-<img align="right" style="margin-top:20px;" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVnYWp5dnd6ZWdpNXVnZzdxbnBjZmppNXYxMm5sZXBlNGRrd3JvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" style="margin-top:20px;" alt="Coding" width="400" src="">
 
 ![GitHub followers](https://img.shields.io/github/followers/jephersonRD?style=social) ![GitHub Stars](https://img.shields.io/github/stars/jephersonRD?style=social)
 <img src="https://gpvc.arturio.dev/jephersonRD" alt="Visitas al perfil" align="right" />
