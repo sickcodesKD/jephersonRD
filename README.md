@@ -51,6 +51,7 @@ const jephersonProfile
   ubicacion: "República Dominicana",
   formacion: "Autodidacta apasionado",
 
+
   habilidadesDestacadas: 
     "Optimización avanzada de sistemas",
     "Game Dev (Desarrollo de videojuegos)",
