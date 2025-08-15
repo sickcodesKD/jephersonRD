@@ -9,8 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5F5F&size=28&center=true&vCenter=true&width=600&height=45&lines=Desarrollador+Full+Stack;Especialista+en+Optimización;Creador+de+Contenido;Apasionado+por+la+Tecnología" alt="Typing Animation" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hello+I'm+developer" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Profile Views" />
