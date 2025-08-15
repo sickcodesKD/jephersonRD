@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 Conecta Conmigo
+## 🌐 Connect with me
 
 <div align="center">
   <a href="https://www.tiktok.com/@jepherson_rd" target="_blank">
@@ -38,26 +38,26 @@
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 About me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```typescript
 const jephersonProfile 
   
-  nombre: "sickcodesKD Medina",
-  profesion: "Full Stack Developer",
+  Name: "sickcodesKD Medina",
+  Profession: "Full Stack Developer",
   ubicacion: "República Dominicana",
-  formacion: "Autodidacta apasionado",
+  Education: "Passionate Self-Taught",
 
 
 
 
-  habilidadesDestacadas: 
-    "Optimización avanzada de sistemas",
-    "Game Dev (Desarrollo de videojuegos)",
-    "Automatización inteligente de procesos",
-    "Streaming remoto y control multiplataforma"
+  Featured Skills:
+  "Advanced Systems Optimization,"
+  "Game Development,"
+  "Intelligent Process Automation,"
+  "Remote Streaming and Cross-Platform Control"
 
 
 ```
@@ -109,13 +109,13 @@ const jephersonProfile
 ## 🎯 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/jephersonRD/PC-Free">
+  <a href="https://github.com/sickcodesKD/PC-Free">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Free&theme=radical" alt="PC-Free"/>
   </a>
-  <a href="https://github.com/jephersonRD/ModerLauncher">
+  <a href="https://github.com/sickcodesKD/ModerLauncher">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=ModerLauncher&theme=radical" alt="ModerLauncher"/>
   </a>
-  <a href="https://github.com/jephersonRD/PC-Cloud-V2">
+  <a href="https://github.com/sickcodesKD/PC-Cloud-V2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Cloud-V2&theme=radical" alt="PC-Cloud-V2"/>
   </a>
 </div>
