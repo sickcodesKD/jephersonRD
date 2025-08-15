@@ -12,9 +12,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=hello+I'm+developer" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jephersonRD?label=Seguidores&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/jephersonRD?label=Estrellas&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=sickcodesKD&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sickcodesKD?label=Seguidores&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/sickcodesKD?label=Estrellas&style=social" alt="GitHub Stars" />
 </p>
 
 ---
