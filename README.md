@@ -25,13 +25,13 @@
   <a href="https://www.tiktok.com/@jepherson_rd" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://www.instagram.com/jepherson_medina/" target="_blank">
+  <a href="https://www.instagram.com/a_dielen/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/@jephersonRD" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://github.com/jephersonRD" target="_blank">
+  <a href="https://github.com/sickcodesKD" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -45,7 +45,7 @@
 ```typescript
 const jephersonProfile 
   
-  nombre: "Jepherson Medina",
+  nombre: "sickcodesKD Medina",
   profesion: "Full Stack Developer",
   ubicacion: "República Dominicana",
   formacion: "Autodidacta apasionado",
@@ -96,12 +96,12 @@ const jephersonProfile
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jephersonRD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jephersonRD&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sickcodesKD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sickcodesKD&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jephersonRD&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sickcodesKD&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 ---
